@@ -2,5 +2,8 @@
 *.csv
 *.gz
 
+#file to ignore
+COVID-19_Vaccinations_in_the_United_States_County.csv.gz
+
 #Mac clean-up
 *.ds_store
